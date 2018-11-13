@@ -1,0 +1,9 @@
+{
+    "regular": {
+        "new_post": "15",
+        "new_comment": "5",
+        "first_login": "5",
+        "refer": "5",
+        "minimum_withdraw": "5"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "regular":{
+      "new_post" :10,
+      "new_comment":4,
+      "first_login":1,
+      "refer" : 12,
+      "minimum_withdraw" :100
+    }
+}
